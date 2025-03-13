@@ -1,2 +1,2 @@
 # Audio-Amplifiers
-All about audio amplifiers and their circuitry
+All about audio amplifier systems and their circuitry
